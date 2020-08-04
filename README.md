@@ -1,6 +1,5 @@
 
-# Laboratorio: Publicando un modelo de deep learning en Heroku
-# Profesor: Alonso Astroza
+# Laboratorio: Publicando un modelo de deep learning en Heroku - Profesor: Alonso Astroza
 
 > Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://facemask-udd.herokuapp.com/
 

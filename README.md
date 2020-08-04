@@ -60,8 +60,5 @@ pip install Flask
 - La construcción del modelo está basada en las clases de [Francisco Ingham y Jeremy Howard](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb). La aplicacion web está inspirada en el trabajo de [Shankar Jha](https://github.com/shankarj67/Water-classifier-fastai).
 
 
-# Propuesta a resolver: detector_incendio
-## Autor: AndreaVerena
-#� �f�o�r�e�s�t�-�f�i�r�e�-�c�l�a�s�s�i�f�i�c�a�t�i�o�n�
-�
-�"# forest-fire-classification" 
+# Propuesta: Forest Fire Detection
+## By: Andrea Faúndez

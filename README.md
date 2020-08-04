@@ -10,6 +10,11 @@ Para probar la aplicación, usted debe ingresar a la app en [https://forest-fire
 - Fire: indica que se ha detectado un incendio forestal en la imagen analizada.
 - No_Fire: indica que no se ha detectado un incendio forestal en la imagen analizada.
 
+### Imágenes ejemplo
+![Image 1](https://ak3.picdn.net/shutterstock/videos/6100823/thumb/1.jpg?i10c=img.resize(height:160)
+![Image 2](https://africacenter.org/wp-content/uploads/2019/09/Cameroon_timber-e1568838351206.jpg)
+![Image 3](https://www.doi.gov/sites/doi.gov/files/styles/featured_image__full_width/public/press-release/primary-images/Adler%20Fire%20Yellowstone%20NPS%201080x650.jpg?itok=A201cGK6)
+![Image 4](https://ak.picdn.net/shutterstock/videos/32633209/thumb/1.jpg)
 
 ## Créditos
 

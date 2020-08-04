@@ -3,7 +3,13 @@
 Este repositorio corresponde a un proyecto desarrollado para el curso de Desarrollo de Proyectos y Producto de Datos del Magíster en Data Science, Universidad del Desarrollo. El proyecto toma como base el repositorio clase_productodatos_2019_udd de Alonso Astroza ([https://github.com/aastroza/clase_productodatos_2019_udd](https://github.com/aastroza/clase_productodatos_2019_udd)), y se adaptó para hacer un detector de incendios forestales.
 
 ## Propuesta: Forest Fire Detection
-La visión del proyecto Forest Fire Detection es generar una aplicación que recibe imágenes aéreas de bosques y detectar si se ha iniciado un incendio en esa zona. Para ello se entrenó un modelo de Deep Learning, en particular una red neuronal convolucional de arquitectura resnet43, con 400 imágenes aéreas de zonas con bosques: 200 con incendio y 200 sin incendio (puede ver los detalles en el [notebook](https://github.com/AndreaVerena/forest-fire-classification/blob/master/notebooks/clasificador-deteccion-incendio.ipynb)).
+El presente proyecto corresponde a una aplicación que está pensada con la visión de procesar imágenes aéreas capturadas por drones, a fin de identificar incendios forestales. Para fines de este curso, se propone:
+
+- Entrenar un modelo de red neuronal que permita clasificar imágenes aéreas en dos categorías: "Fire" y "No_Fire", que corresponden a si se detecta o no un incendio en las imágenes.
+- Disponibilizar el modelo a través de una aplicación web, donde el usuario deberá cargar manualmente una imagen y se entregará como respuesta la categoría a la que pertenece esa imagen según la predicción generada por el modelo.
+
+
+Para ello se entrenó un modelo de Deep Learning, en particular una red neuronal convolucional de arquitectura resnet43, con 400 imágenes aéreas de zonas con bosques: 200 con incendio y 200 sin incendio (puede ver los detalles en el [notebook](https://github.com/AndreaVerena/forest-fire-classification/blob/master/notebooks/clasificador-deteccion-incendio.ipynb)). Luego, se pone el modelo en producción con una aplicación desarrollada en Python, la cual se disponibiliza a través de la plataforma gratuita de [Heroku](https://www.heroku.com).
 
 ## ¿Cómo probar la app?
 Para probar la aplicación, usted debe ingresar a la app en [https://forest-fire-classification.herokuapp.com](https://forest-fire-classification.herokuapp.com) y cargar una imagen aérea de bosques desde su equipo. Para obtener el resultado presione el botón "Predecir" y se mostrará el resultado:

@@ -7,7 +7,9 @@ La visión del proyecto Forest Fire Detection es generar una aplicación que rec
 
 ## ¿Cómo probar la app?
 Para probar la aplicación, usted debe ingresar a la app en [https://forest-fire-classification.herokuapp.com](https://forest-fire-classification.herokuapp.com) y cargar una imagen aérea de bosques. A continuación algunas imágenes de ejemplo:
+
 ![Imagen Ejemplo](https://cdn8.dissolve.com/p/D640_31_055/D640_31_055_0004_600.jpg)
+![Imagen Ejemplo2](https://www.starpik.com/wp-content/uploads/2019/01/Aerial-shot-of-the-road-Chisinau-to-Leuseni.-Autumn-forest-on-sides.-Moldova-623x467.jpg)
 
 
 ## Antes de empezar

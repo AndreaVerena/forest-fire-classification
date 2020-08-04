@@ -1,6 +1,6 @@
 
 # Laboratorio: Publicando un modelo de deep learning en Heroku - Profesor: Alonso Astroza
-El presente repositorio correpsonde a un proyecto desarrollado para el curso de Desarrollo de Proyectos y Producto de Datos del Magíster en Data Science, Universidad del Desarrollo. El proyecto toma como base el repositorio clase_productodatos_2019_udd de Alonso Astroza, y se adaptó para hacer un detector de incendios forestales.
+Este repositorio corresponde a un proyecto desarrollado para el curso de Desarrollo de Proyectos y Producto de Datos del Magíster en Data Science, Universidad del Desarrollo. El proyecto toma como base el repositorio clase_productodatos_2019_udd de Alonso Astroza, y se adaptó para hacer un detector de incendios forestales.
 
 > Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://facemask-udd.herokuapp.com/
 

@@ -24,7 +24,7 @@ Para probar la aplicación, usted debe ingresar a la app en [https://forest-fire
 
 ## Créditos
 
-- La propuesta se basa en el Laboratorio diseñado por Alonso Astroza, disponible en el repositorio [https://github.com/aastroza/clase_productodatos_2019_udd)](https://github.com/aastroza/clase_productodatos_2019_udd).
+- La propuesta se basa en el Laboratorio diseñado por Alonso Astroza, disponible en el repositorio [(https://github.com/aastroza/clase_productodatos_2019_udd)](https://github.com/aastroza/clase_productodatos_2019_udd).
 
 
 
